@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AdvanceSearchAppUsingTypescript/static/css/main.a617e044.chunk.css",
+    "main.js": "/AdvanceSearchAppUsingTypescript/static/js/main.fda9c847.chunk.js",
+    "main.js.map": "/AdvanceSearchAppUsingTypescript/static/js/main.fda9c847.chunk.js.map",
+    "runtime-main.js": "/AdvanceSearchAppUsingTypescript/static/js/runtime-main.7dbee5e4.js",
+    "runtime-main.js.map": "/AdvanceSearchAppUsingTypescript/static/js/runtime-main.7dbee5e4.js.map",
+    "static/css/2.818011ed.chunk.css": "/AdvanceSearchAppUsingTypescript/static/css/2.818011ed.chunk.css",
+    "static/js/2.bdb5bd29.chunk.js": "/AdvanceSearchAppUsingTypescript/static/js/2.bdb5bd29.chunk.js",
+    "static/js/2.bdb5bd29.chunk.js.map": "/AdvanceSearchAppUsingTypescript/static/js/2.bdb5bd29.chunk.js.map",
+    "index.html": "/AdvanceSearchAppUsingTypescript/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/AdvanceSearchAppUsingTypescript/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/AdvanceSearchAppUsingTypescript/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.bdb5bd29.chunk.js.LICENSE.txt": "/AdvanceSearchAppUsingTypescript/static/js/2.bdb5bd29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dbee5e4.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.bdb5bd29.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.fda9c847.chunk.js"
+  ]
+}
