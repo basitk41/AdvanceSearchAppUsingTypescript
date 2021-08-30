@@ -35,7 +35,7 @@ export const setSearch = (inputField:string) => {
     dispatch(loading(true));
     axios
       .get(
-        `https://ws.audioscrobbler.com/2.0/?method=artist.search&artist=${inputField}&api_key=${process.env.REACT_APP_API_KEY}&format=json`
+        `https://ws.audioscrobbler.com/2.0/?method=artist.search&artist=${inputField}&api_key=${process.env.REACT_APP_API_KEY || '66d23e719b268600568a2fe8b59132fc'}&format=json`
       )
       .then((response) => {
         dispatch(setSearchResult(response.data.results.artistmatches.artist));
