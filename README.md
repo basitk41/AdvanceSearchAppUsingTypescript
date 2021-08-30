@@ -1,5 +1,6 @@
 ## AdvanceSearchAppUsingTypescript
 Advance search application in react/typescript.
+link to App:https://basitk41.github.io/AdvanceSearchAppUsingTypescript/index.html<br />
 <br />
 Key features:<br />
 1)Advance search which querying an API for your favorite artist.<br />
